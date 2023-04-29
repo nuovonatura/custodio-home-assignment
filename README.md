@@ -14,7 +14,7 @@ Create a web application which consists of the following:
 
     e. Interests
 
-2. Back-end application (Nodejs.. Write API calls to communicate between front-end and back-end should also allow a user to perform the following operations:
+2. Back-end application (Nodejs) Write API calls to communicate between front-end and back-end should also allow a user to perform the following operations:
 
     a. View existing records.
 
